@@ -51,9 +51,3 @@ Verify game files on Steam to restore the original DLL:
 ```
 Steam → Bongo Cat → Properties → Local Files → Verify integrity of game files
 ```
-
-## Notes
-
-- Stats are saved to Steam — changes are permanent
-- <img width="1404" height="551" alt="image" src="https://github.com/user-attachments/assets/451a60f4-786e-4bd0-b58b-00cbdbfc4cd4" />
-
