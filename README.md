@@ -1,4 +1,4 @@
-# BongoCat Score Multiplier
+# BongoCat Click Multiplier
 
 A simple change for Bongo Cat that multiplies your score.
 
